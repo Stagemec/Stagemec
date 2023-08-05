@@ -1,5 +1,5 @@
 # Bem-vindo ao meu Perfil! 👋
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F10998293-ilustracao-3d-do-espaco-de-trabalho-do-pc-do-programador&psig=AOvVaw2BiwnVdxFDZNV0kmUvneE-&ust=1691357846854000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjApJC9xoADFQAAAAAdAAAAABAE)
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.escolawinners.com.br%2Fportfolio-item%2Fdev-sistemas%2F&psig=AOvVaw1JESL9nCoW6ZhfwrkMH5Y6&ust=1691358188633000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjE0rO-xoADFQAAAAAdAAAAABAE)
 
 Olá, eu sou [Seu Nome], um desenvolvedor formado em Análise e Desenvolvimento de Sistemas.
 
@@ -14,11 +14,8 @@ Olá, eu sou [Seu Nome], um desenvolvedor formado em Análise e Desenvolvimento 
 ## Habilidades 🛠️
 
 - **Linguagens de Programação:** [Linguagens que você domina, por exemplo: JavaScript, Python, Java, etc.]
-- **Tecnologias Front-end:** [Tecnologias como HTML, CSS, React, etc.]
-- **Tecnologias Back-end:** [Tecnologias como Node.js, Django, etc.]
-- **Banco de Dados:** [Bancos de dados com os quais você trabalha, como MySQL, MongoDB, etc.]
-- **Ferramentas:** [Quaisquer outras ferramentas relevantes que você utilize em seus projetos.]
-
+- ![Logo do GitHub](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fcarregando_146807&psig=AOvVaw0y3nP2vQERbG3Fta2sPlqr&ust=1691358261822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC1-9W-xoADFQAAAAAdAAAAABAZ
+)
 ## Projetos 🔨
 
 - [Nome do Projeto 1](link_do_projeto_1) - Uma breve descrição do projeto e tecnologias utilizadas.
