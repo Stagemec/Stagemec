@@ -5,7 +5,7 @@ Eu sou Davi Graduando em Analise e Desenvolvimento de Sistemas
 
 ## [ADS](https://portal.uniasselvi.com.br/graduacao/pa/salinopolis/analise-e-desenvolvimento-de-sistemas?place=salinopolis-pa&modality=ead)
 
-[]1º Semestre [x]
+1º Semestre :ballot_box_with_check:
 
 - Perspectivas Profissionais
 - Arquitetura de Computadores
