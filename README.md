@@ -1,5 +1,5 @@
 # Bem-vindo ao meu Perfil! 👋
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Fgifs-de-programador%2F&psig=AOvVaw1sGZb_G8QUiXNj7vbV7-7P&ust=1691357419205000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjOhcW7xoADFQAAAAAdAAAAABAE)
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F10998293-ilustracao-3d-do-espaco-de-trabalho-do-pc-do-programador&psig=AOvVaw2BiwnVdxFDZNV0kmUvneE-&ust=1691357846854000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjApJC9xoADFQAAAAAdAAAAABAE)
 
 Olá, eu sou [Seu Nome], um desenvolvedor formado em Análise e Desenvolvimento de Sistemas.
 
