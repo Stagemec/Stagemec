@@ -6,7 +6,8 @@
 
 ---
 
-##SrBogolhao
+## SrBogolhao
+
 Graduando em ADS(analise e desenvolvimento de sistemas), no início do desbravamento dessa vasta selva que é a tecnologia.
 
 ### Conecte-se comigo
@@ -18,6 +19,7 @@ Graduando em ADS(analise e desenvolvimento de sistemas), no início do desbravam
 [![Facebook pagina](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/Davibogolhao/)
 
 ---
+
 ### Habilidades
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
@@ -28,9 +30,14 @@ Graduando em ADS(analise e desenvolvimento de sistemas), no início do desbravam
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrBogolhao&theme=transparent&bg_color=583&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrBogolhao&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrBogolhao&theme=transparent&bg_color=204&border_color=888&show_icons=true&icon_color=0F0&title_color=0F0&text_color=FFF) 
+
+<br>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrBogolhao&layout=compact&bg_color=010&border_color=FFF&title_color=0F0&text_color=FFF)
+
 ---
+
 ## Linguagens de Marcação e Estilo
 <table>
   <thead>
@@ -67,19 +74,26 @@ Graduando em ADS(analise e desenvolvimento de sistemas), no início do desbravam
   </tbody>
   <tfoot></tfoot>
 </table>
+            
 ---
+
 ## Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python
----
-|:-------:|:----------:|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=SrBogolhao&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) |
-| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrBogolhao&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrBogolhao&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SrBogolhao&repo=Monitoravali&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO) |
----
-# 🚀 Sobre mim
-Eu sou Davi Graduando em Analise e Desenvolvimento de Sistemas
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SrBogolhao&theme=bear&background=000&border=000&dates=5ff)](https://git.io/streak-stats)
+
+---
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrBogolhao&bg_color=030&border_color=30A3DC&title_color=ff5&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrBogolhao&layout=compact&bg_color=030&border_color=30A3DC&title_color=ff5&text_color=FFF)
+
+---
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SrBogolhao&repo=Monitoravali&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/SrBogolhao/Monitoravali)
+
+---
 
 ## [ADS](https://portal.uniasselvi.com.br/graduacao/pa/salinopolis/analise-e-desenvolvimento-de-sistemas?place=salinopolis-pa&modality=ead)
 
@@ -114,12 +128,12 @@ Eu sou Davi Graduando em Analise e Desenvolvimento de Sistemas
 - Imersão Profissional: Inteligência Artificial :computer:
 
 5º Semestre
-- Programação para Dispositivos Móveis
-- Programação para Web
-- Gerência de Projetos
-- Interação Humano-Computador
-- Estudo Contemporâneo e Transversal: Propriedade Intelectual, Leitura de Imagens, Gráficos e Mapas
-- Imersão Profissional: Implementação de uma Aplicação
+- Programação para Dispositivos Móveis :computer:
+- Programação para Web :computer:
+- Gerência de Projetos :computer:
+- Interação Humano-Computador :computer:
+- Estudo Contemporâneo e Transversal: Propriedade Intelectual, Leitura de Imagens, Gráficos e Mapas :computer:
+- Imersão Profissional: Implementação de uma Aplicação :computer:
 
 Disciplina(s) Optativa(s)
-- Língua Brasileira de Sinais - Libras
+- Língua Brasileira de Sinais - Libras :computer:
