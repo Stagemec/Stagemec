@@ -30,11 +30,11 @@ Graduando em ADS(analise e desenvolvimento de sistemas), no início do desbravam
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrBogolhao&theme=transparent&bg_color=204&border_color=888&show_icons=true&icon_color=0F0&title_color=0F0&text_color=FFF) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stagemec&theme=transparent&bg_color=204&border_color=888&show_icons=true&icon_color=0F0&title_color=0F0&text_color=FFF) 
 
 <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrBogolhao&layout=compact&bg_color=010&border_color=FFF&title_color=0F0&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stagemec&layout=compact&bg_color=010&border_color=FFF&title_color=0F0&text_color=FFF)
 
 ---
 
@@ -83,15 +83,15 @@ Graduando em ADS(analise e desenvolvimento de sistemas), no início do desbravam
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SrBogolhao&theme=bear&background=000&border=000&dates=5ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Stagemec&theme=bear&background=000&border=000&dates=5ff)](https://git.io/streak-stats)
 
 ---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrBogolhao&bg_color=030&border_color=30A3DC&title_color=ff5&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrBogolhao&layout=compact&bg_color=030&border_color=30A3DC&title_color=ff5&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stagemec&bg_color=030&border_color=30A3DC&title_color=ff5&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stagemec&layout=compact&bg_color=030&border_color=30A3DC&title_color=ff5&text_color=FFF)
 
 ---
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SrBogolhao&repo=Monitoravali&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/SrBogolhao/Monitoravali)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Stagemec&repo=Monitoravali&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/SrBogolhao/Monitoravali)
 
 ---
 
