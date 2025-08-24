@@ -37,12 +37,7 @@ Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stagemec&theme=transparent&bg_color=204&border_color=888&show_icons=true&icon_color=0F0&title_color=0F0&text_color=FFF) 
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/Stagemec=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+![stagemec's Stats](https://github-readme-stats.vercel.app/api?username=stagemec&theme=merko&show_icons=true&hide_border=true&count_private=false)
 ---
 
 ## Linguagens de Marcação e Estilo
