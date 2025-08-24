@@ -8,7 +8,7 @@
 
 ## Davi R. Silva
 
-Graduando:<br>
+Graduações:<br>
 Tecnologo -> Analise e Desenvolvimento de Sistemas - Uniasselvi :computer:<br>
 
 Tecnico profissionalizante:<br>
