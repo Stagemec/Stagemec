@@ -41,7 +41,7 @@ Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?stagemec=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?[stagemec](https://github.com/Stagemec)=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
