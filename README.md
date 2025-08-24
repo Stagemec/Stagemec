@@ -20,7 +20,7 @@ Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](http://www.linkedin.com/in/davi-silva-stagemec)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/stagemec)
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/stagemec)]
+![X (formerly Twitter) URL](https://img.shields.io/twitter/stagemec)
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=YouTube)](https://www.youtube.com/@stagemec)
