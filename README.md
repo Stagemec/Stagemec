@@ -43,7 +43,7 @@ Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stagemec&layout=compact&bg_color=010&border_color=FFF&title_color=0F0&text_color=FFF)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?stagemec=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?stagemec)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
