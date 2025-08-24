@@ -39,54 +39,9 @@ Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 ### GitHub Stats
 ![stagemec's Stats](https://github-readme-stats.vercel.app/api?username=stagemec&theme=merko&show_icons=true&hide_border=true&count_private=false)
 ---
-
-## Linguagens de Marcação e Estilo
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>
-        <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
-      </td>
-      <td>
-        <code>![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
-      </td>
-      <td>
-        <code>![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
-      </td>
-      <td>
-        <code>![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)</code>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
-            
+![stagemec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stagemec&theme=merko&show_icons=true&hide_border=true&layout=compact)
 ---
-
-## Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Stagemec&theme=bear&background=000&border=000&dates=5ff)](https://git.io/streak-stats)
-
+![stagemec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=stagemec&theme=merko&hide_border=true)
 ---
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stagemec&bg_color=030&border_color=30A3DC&title_color=ff5&text_color=FFF)
