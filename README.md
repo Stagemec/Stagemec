@@ -8,14 +8,14 @@
 
 ## Davi R. Silva
 
-Graduando:
-Tecnologo -> Analise e Desenvolvimento de Sistemas - Uniasselvi :computer:
+Graduando:<br>
+Tecnologo -> Analise e Desenvolvimento de Sistemas - Uniasselvi :computer:<br>
 
-Tecnico profissionalizante:
-Assistente Administrativo - 200h - 2024 | IFRS
-Informática Básica e Avançada - 85Horas - 2016 | LiderCursos Profissionalizantes :computer:
-Gestão Empresarial - 45h - 2016 | LiderCursos Profissionalizantes
-Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer:
+Tecnico profissionalizante:<br>
+Assistente Administrativo - 200h - 2024 | IFRS <br>
+Informática Básica e Avançada - 85Horas - 2016 | LiderCursos Profissionalizantes :computer: <br>
+Gestão Empresarial - 45h - 2016 | LiderCursos Profissionalizantes <br>
+Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](http://www.linkedin.com/in/davi-silva-stagemec)
