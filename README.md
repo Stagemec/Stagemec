@@ -44,7 +44,7 @@ Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 ![stagemec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=stagemec&theme=merko&hide_border=true)
 ---
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=https://github.com/Stagemec)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Stagemec)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Stagemec&repo=Monitoravali&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF)](https://github.com/SrBogolhao/Monitoravali)
