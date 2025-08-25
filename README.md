@@ -43,3 +43,23 @@ Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 [![Stagemec/Calculakcal - GitHub](https://gh-card.dev/repos/Stagemec/Calculakcal.svg)](https://github.com/Stagemec/Calculakcal)
 
 ---
+
+<div style="border: 2px solid #b8860b; border-radius: 8px; width: 320px; font-family: Arial, sans-serif; overflow: hidden;">
+  <!-- Título -->
+  <div style="background-color: #000; padding: 12px;">
+    <a href="https://github.com/Stagemec/Calculakcal" style="color: white; text-decoration: none; font-size: 18px; font-weight: bold;">
+      Stagemec / Calculakcal
+    </a>
+  </div>
+
+  <!-- Conteúdo -->
+  <div style="padding: 12px; background-color: #1a1a1a; color: #ccc;">
+    <p style="margin: 0 0 8px;">Contador de calorias com interface simples.</p>
+    <div style="font-size: 14px;">
+      ★ 12 • Forks: 3
+    </div>
+  </div>
+</div>
+
+
+---
