@@ -40,6 +40,6 @@ Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 
 ---
 
-
+[![Stagemec/Calculakcal - GitHub](https://gh-card.dev/repos/Stagemec/Calculakcal.svg)](https://github.com/Stagemec/Calculakcal)
 
 ---
