@@ -1,12 +1,4 @@
-<h1>
-    <a href="https://github.com/SrBogolhao">
-     <img align="center" width="40px" src="https://avatars.githubusercontent.com/u/94186012?v=4"></a>
-    <span> Davi Roberto </span>
-</h1>
-
----
-
-## Davi R. Silva
+## Escolaridade
 
 Graduações:<br>
 Tecnologo -> Analise e Desenvolvimento de Sistemas - Uniasselvi :computer:<br>
