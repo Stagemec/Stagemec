@@ -26,8 +26,8 @@ Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 ---
 
 [![Twitch Status](https://img.shields.io/twitch/status/Stagemec)](https://www.twitch.tv/stagemec/) <br>
-[![YouTube Channel Views](https://img.shields.io/youtube/)](https://www.youtube.com/@Stagemec) <br>
-
+[![YouTube Channel](https://img.shields.io/youtube/)](https://www.youtube.com/@Stagemec) <br>
+[![X Channel](https://camo.githubusercontent.com/4d48645a3413a4b72b7db3e2ece9ec518bcf2cdc2184e92f0ab724db780a82b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d3030303030303f7374796c653d666c6174266c6f676f3d78266c6f676f436f6c6f723d7768697465)](https://www.youtube.com/@Stagemec)
 
 
 ---
