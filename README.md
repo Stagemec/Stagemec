@@ -4,9 +4,9 @@ Graduações:<br>
 Tecnologo - Analise e Desenvolvimento de Sistemas - Uniasselvi :computer:<br>
 Pos - Ciencia de dados- Uniasselvi - 💻 - Cursando
 Tecnico profissionalizante:<br>
-Assistente Administrativo - 200h - 2024 | IFRS <br> 👨‍💼
+Assistente Administrativo - 200h - 2024 | IFRS -👨‍💼 <br>
 Informática Básica e Avançada - 85Horas - 2016 | LiderCursos Profissionalizantes :computer: <br>
-Gestão Empresarial - 45h - 2016 | LiderCursos Profissionalizantes <br> 👨‍💼
+Gestão Empresarial - 45h - 2016 | LiderCursos Profissionalizantes - 👨‍💼 <br>
 Montagem e Manutenção de PC - 19h - 2021 | NEEC :computer: <br>
 
 
