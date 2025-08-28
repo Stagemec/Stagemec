@@ -2,7 +2,7 @@
 
 Graduações:<br>
 Tecnologo - Analise e Desenvolvimento de Sistemas - Uniasselvi :computer:<br>
-Pos - Ciencia de dados- Uniasselvi - 💻 - Cursando
+Pos - Ciencia de dados- Uniasselvi - 💻 - Cursando <br>
 Tecnico profissionalizante:<br>
 Assistente Administrativo - 200h - 2024 | IFRS -👨‍💼 <br>
 Informática Básica e Avançada - 85Horas - 2016 | LiderCursos Profissionalizantes :computer: <br>
